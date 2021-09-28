@@ -1,16 +1,16 @@
 {
-  "name": "@sushiswap/sdk",
+  "name": "@paydefi/sdk",
   "license": "MIT",
-  "version": "5.0.0-canary.89",
-  "description": "🛠 An SDK for building applications on top of SushiSwap.",
+  "version": "1.0.1",
+  "description": "🛠 An SDK for building applications on top of PayDefi.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sushiswap/sushiswap-sdk",
+  "repository": "https://github.com/pay-defi/paydefi-sdk",
   "keywords": [
-    "sushiswap",
+    "paydefi",
     "ethereum",
     "sdk"
   ],
@@ -69,7 +69,6 @@
     "@ethersproject/signing-key": "^5.4.0",
     "@ethersproject/solidity": "^5.4.0",
     "@ethersproject/transactions": "^5.4.0",
-    "@sushiswap/core": "^2.0.0-canary.1",
     "@sushiswap/prettier-config": "^0.1.0",
     "@types/big.js": "^6.1.0",
     "babel-plugin-transform-jsbi-to-bigint": "^1.4.0",
